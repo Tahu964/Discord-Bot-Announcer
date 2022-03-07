@@ -5,6 +5,10 @@ Download instructions:
 
 Click DiscordPlugin-1.18-R0.1-SNAPSHOT.jar above and then hit download!
 
+Current version:
+
+This Repo contains version 2022-03-07 of the plugin
+
 -Discord integration: This whole plugin can be linked to a bot hosted on your server to give real time info on the game world. From the server becoming active to people joining and leaving, this gives you a simpler way of finding out whats going on without having to be there.
 
 -Death messages: Some of the death messages have been revamped to be satirical to give you and your friends more to laugh about. Plus its all sent to your discord channel of choosing.
