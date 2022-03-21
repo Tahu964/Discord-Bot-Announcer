@@ -15,6 +15,8 @@ This Repo contains version 2022-03-21 of the plugin
 
 -Discord Promotions: Advertise your discord server to players joining the server. Or disable it with a simple command
 
+-Death Counter: Keep track of all of you and your friends' mistakes in game or through discord!
+
 -In-game commands: Ever wanted to tell your friends who aren't online to get on without having to leave the game? Now its possible to message your friends without having to hop on discord. Plus with the new built in clock command, reading time has never been easier.
 
 -Discord commands: Died enough times because you joined the server at night? Now you can ask the plugin through discord to give you the current time so you don't get ambushed on spawn. Plus, you can message the server to tell your friends what's going on discord
