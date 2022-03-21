@@ -3,15 +3,17 @@ This is the Discord Bot Announcer for Minecraft, Created by Tahu964 This Bot has
 
 Download instructions:
 
-Click DiscordPlugin-1.18-R0.1-SNAPSHOT.jar above and then hit download!
+Click DiscordPlugin-1.18.jar above and then hit download!
 
 Current version:
 
-This Repo contains version 2022-03-07 of the plugin
+This Repo contains version 2022-03-21 of the plugin
 
 -Discord integration: This whole plugin can be linked to a bot hosted on your server to give real time info on the game world. From the server becoming active to people joining and leaving, this gives you a simpler way of finding out whats going on without having to be there.
 
 -Death messages: Some of the death messages have been revamped to be satirical to give you and your friends more to laugh about. Plus its all sent to your discord channel of choosing.
+
+-Discord Promotions: Advertise your discord server to players joining the server. Or disable it with a simple command
 
 -In-game commands: Ever wanted to tell your friends who aren't online to get on without having to leave the game? Now its possible to message your friends without having to hop on discord. Plus with the new built in clock command, reading time has never been easier.
 
