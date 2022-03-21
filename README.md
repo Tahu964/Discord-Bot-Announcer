@@ -9,6 +9,8 @@ Current version:
 
 This Repo contains version 2022-03-21 of the plugin
 
+For more detailed description, visit https://www.spigotmc.org/resources/discord-bot-announcer.100508/
+
 -Discord integration: This whole plugin can be linked to a bot hosted on your server to give real time info on the game world. From the server becoming active to people joining and leaving, this gives you a simpler way of finding out whats going on without having to be there.
 
 -Death messages: Some of the death messages have been revamped to be satirical to give you and your friends more to laugh about. Plus its all sent to your discord channel of choosing.
