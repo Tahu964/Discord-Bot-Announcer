@@ -1,5 +1,5 @@
 # Discord-Bot-Announcer
-This is the Discord Bot Announcer for Minecraft, Created by Tahu964 This Bot has a set of features for anyone to explore.
+This is the Discord Bot Announcer Spigot Plugin for Minecraft, Created by Tahu964 This Bot has a set of features for anyone to explore.
 
 Download instructions:
 
