@@ -1,5 +1,5 @@
 # Discord-Bot-Announcer
-This is the Discord Bot Announcer for Minecraft, Created by Tahu964 This Bot has a set of features for anyone to explore.
+This is the Discord Bot Announcer Spigot Plugin for Minecraft, Created by Tahu964 This Bot has a set of features for anyone to explore.
 
 Download instructions:
 
@@ -7,7 +7,7 @@ Click DiscordPlugin-1.18.jar above and then hit download!
 
 Current version:
 
-This Repo contains version 2022-03-22 of the plugin
+This Repo contains version 2022-04-13 of the plugin
 
 For more detailed description, visit https://www.spigotmc.org/resources/discord-bot-announcer.100508/
 
@@ -22,5 +22,7 @@ For more detailed description, visit https://www.spigotmc.org/resources/discord-
 -In-game commands: Ever wanted to tell your friends who aren't online to get on without having to leave the game? Now its possible to message your friends without having to hop on discord. Plus with the new built in clock command, reading time has never been easier.
 
 -Discord commands: Died enough times because you joined the server at night? Now you can ask the plugin through discord to give you the current time so you don't get ambushed on spawn. Plus, you can message the server to tell your friends what's going on discord
+
+-Configuration: Don't want people in discord blowing up the minecraft server? Adjust the plugin to choose the settings you want and the settings you dont!
 
 This plugin was made possible using the Spigot development tools, JDA library, and countless hours spent on Spigot forums and stackoverflow (RIP my freetime). Credit goes to where it is due.
