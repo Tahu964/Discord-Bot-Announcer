@@ -7,7 +7,7 @@ Click DiscordPlugin-1.18.jar above and then hit download!
 
 Current version:
 
-This Repo contains version 2022-05-12 Hotfix1 of the plugin
+This Repo contains version 2022-05-12 of the plugin
 
 For more detailed description, visit https://www.spigotmc.org/resources/discord-bot-announcer.100508/
 
