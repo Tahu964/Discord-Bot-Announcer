@@ -11,7 +11,11 @@ Click DiscordPlugin-1.19.jar above and then hit download!
 
 Current version:
 
-This Repo contains version 2022-05-20 of the plugin
+This Repo contains version 2023-01-26 of the plugin for Minecraft version 1.19
+
+Legacy version:
+
+This Repo contains version 2022-05-20 of the plugin for Minecraft version 1.18
 
 For more detailed description, visit https://www.spigotmc.org/resources/discord-bot-announcer.100508/
 
