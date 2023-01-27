@@ -3,7 +3,11 @@ This is the Discord Bot Announcer Spigot Plugin for Minecraft, Created by Tahu96
 
 Download instructions:
 
+For Minecraft version 1.18
 Click DiscordPlugin-1.18.jar above and then hit download!
+
+For Minecraft version 1.19
+Click DiscordPlugin-1.19.jar above and then hit download!
 
 Current version:
 
